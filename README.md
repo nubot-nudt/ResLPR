@@ -5,7 +5,7 @@
 <h3 align="center">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</h3>
 
 <p align="center">
-  <a href="https://github.com/KuangWenqing">Wenqing Kuang</a>,
+  <a href="https://github.com/KuangWenqing">Wenqing Kuang<sup>1</sup></a>,
   <a href="https://github.com/Grandzxw"><sup>2</sup>Xiongwei Zhao</a>,
   <a href="https://github.com/shenyehui"><sup>1</sup>Yehui Shen</a>,
   <sup>3</sup>Congcong Wen,
