@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="./docs/figs/ResLPR_logo.png" alt="Project Logo" width="200"/>
+  <img src="./docs/figs/ResLPR_logo.png" alt="Project Logo" width="600"/>
 </p>
 
-# ResLPR: A LiDAR Data Restoration Network and Benchmark for
-Robust Place Recognition Against Weather Corruptions
+# ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions
 
 <p align="center">
   <a href="https://github.com/author1_github_profile">作者1</a>,
