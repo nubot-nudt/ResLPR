@@ -1,4 +1,4 @@
-<div align="center"></div>
+<div style="text-align: center;"></div>
   <img src="./docs/figs/ResLPR_logo.png" alt="Project Logo" width="800"/>
   <h1>ResLPR: A LiDAR Data Restoration Network and Benchmark for
 Robust Place Recognition Against Weather Corruptions</h1>
