@@ -14,4 +14,4 @@
   <a href="https://github.com/author3_github_profile">Xieyuanli Chen</a>
 </p>
 
-<p align="center"><sup>1</sup>National University of Defense Technology <sup>2</sup>Harbin Institute of Technology <sup>3</sup>New York University Abu Dhabi</p>
+<p align="center"><sup>1</sup>National University of Defense Technology  <sup>2</sup>Harbin Institute of Technology  <sup>3</sup>New York University Abu Dhabi</p>
