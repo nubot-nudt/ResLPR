@@ -17,4 +17,4 @@
 <p align="center"><sup>1</sup>National University of Defense Technology&nbsp;&nbsp;<sup>2</sup>Harbin Institute of Technology&nbsp;&nbsp;<sup>3</sup>New York University Abu Dhabi</p>
 
 ### About
-ResLPR is a benchmark for LiDAR-based place recognition under adverse weather. ResLPRNet, a lightweight network, restores corrupted LiDAR scans using wavelet transform. It helps pretrained models enhance the robustness of place recognition in bad weather in a plug-and-play manner.
+**ResLPR** is a benchmark for LiDAR-based place recognition under adverse weather. **ResLPRNet**, a lightweight network, restores corrupted LiDAR scans using wavelet transform. It helps pretrained models enhance the robustness of place recognition in bad weather in a **plug-and-play** manner.
