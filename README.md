@@ -23,6 +23,7 @@
   <img src="./docs/figs/corrupted_level_vis.png" alt="Vis benchmark" width="800"/>
   </p>
 Visualization of corrupted point clouds of varying severity in WeatherKITTI and WeatherNCLT. The 🔴 red points  in the point cloud signify the noise points, and the 🔵 blue points denote the lost points.
+
 2. The visualizations of the results of three different preprocessing algorithms (including ResLPRNet) are as follows:
   <p align="center">
   <img src="./docs/figs/vis_preprocessing.png" alt="Vis preprocessing" width="800"/>
