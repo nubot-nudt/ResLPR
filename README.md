@@ -20,5 +20,5 @@
 ***ResLPR*** is a benchmark for LiDAR-based place recognition under adverse weather. ***ResLPRNet***, a lightweight network, restores corrupted LiDAR scans using wavelet transform. It helps pretrained models enhance the robustness of place recognition in bad weather in a ***plug-and-play*** manner. 
 1. The visualizations of ***WeatherKITTI*** and ***WeatherNCLT*** proposed by this benchmark are as follows.
   <p align="center">
-  <img src="./docs/figs/corrupted_level.png" alt="Project Logo" width="800"/>
+  <img src="./docs/figs/corrupted_level_vis.png" alt="Project Logo" width="800"/>
   </p>
