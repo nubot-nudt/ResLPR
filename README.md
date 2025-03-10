@@ -22,4 +22,4 @@
   <p align="center">
   <img src="./docs/figs/corrupted_level_vis.png" alt="Vis benchmark" width="800"/>
   </p>
-Visualization of corrupted point clouds of varying severity in WeatherKITTI and WeatherNCLT. The <span style="color: red;">red points</span> in the point cloud signify the noise points, and the <span style="color: blue;">blue points</span> denote the lost points.
+Visualization of corrupted point clouds of varying severity in WeatherKITTI and WeatherNCLT. The 🔴 red points  in the point cloud signify the noise points, and the 🔵 blue points denote the lost points.
