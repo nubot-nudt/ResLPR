@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  - :page_facing_up: [Paper](https://example.com/paper.pdf)
-  - :movie_camera: [Video](https://example.com/video.mp4)
+  [ :page_facing_up: ](https://example.com/paper.pdf)
+  [ :movie_camera: ](https://example.com/video.mp4)
 </p>
 
 <h3 align="center">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</h3>
