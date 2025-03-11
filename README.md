@@ -2,6 +2,11 @@
   <img src="./docs/figs/ResLPR_logo.png" alt="Project Logo" width="400"/>
 </p>
 
+<p align="center">
+  - :page_facing_up: [Paper](https://example.com/paper.pdf)
+  - :movie_camera: [Video](https://example.com/video.mp4)
+</p>
+
 <h3 align="center">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</h3>
 
 <p align="center">
