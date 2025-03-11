@@ -3,8 +3,13 @@
 </p>
 
 <p align="center">
-  [ :page_facing_up: ](https://example.com/paper.pdf)
-  [ :movie_camera: ](https://example.com/video.mp4)
+  <a href="https://example.com/paper.pdf" target='_blank'>
+    <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-slategray">
+  </a>
+  
+  <a href="https://www.bilibili.com/video/BV15VQVYAEbD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=434433d4564b5c96e910bfcdd04d34a0" target='_blank'>
+    <img src="https://img.shields.io/badge/Demo-%F0%9F%8E%AC-pink">
+  </a>
 </p>
 
 <h3 align="center">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</h3>
