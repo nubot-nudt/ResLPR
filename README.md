@@ -18,7 +18,7 @@
   <a href="https://github.com/KuangWenqing">Wenqing Kuang</a><sup>1</sup>,
   <a href="https://github.com/Grandzxw">Xiongwei Zhao</a><sup>2</sup>,
   <a href="https://github.com/shenyehui">Yehui Shen</a><sup>1</sup>,
-  Congcong Wen<sup>3</sup>,
+  <a href="https://scholar.google.com.sg/citations?user=OTBgvCYAAAAJ&hl=zh-CN&oi=ao">Congcong Wen</a><sup>3</sup>,
   Huimin Lu<sup>1</sup>,
   Zongtan Zhou<sup>1</sup>,
   <a href="https://github.com/Chen-Xieyuanli">Xieyuanli Chen</a><sup>1</sup>
