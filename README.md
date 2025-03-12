@@ -10,6 +10,10 @@
   <a href="https://www.bilibili.com/video/BV15VQVYAEbD/?spm_id_from=333.1387.homepage.video_card.click&vd_source=434433d4564b5c96e910bfcdd04d34a0" target='_blank'>
     <img src="https://img.shields.io/badge/Demo-%F0%9F%8E%AC-pink">
   </a>
+
+  <a href="https://example_datasets.com" target='_blank'>
+    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-lightblue">
+  </a>  
 </p>
 
 <h3 align="center">ResLPR: A LiDAR Data Restoration Network and Benchmark for Robust Place Recognition Against Weather Corruptions</h3>
@@ -41,4 +45,4 @@ Visualization of corrupted point clouds of varying severity in WeatherKITTI and 
 
 ### Data Preparation
 Our datasets are hosted by Baidu Netdisk. Download the dataset via this [ResLPR datasets](https://example.com/).
-Kindly refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepare the <sup>1</sup>`KITTI`, <sup>2</sup>`KITTI-C`.
+Kindly refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepare the <sup>1</sup>`WeatherKITTI`, <sup>2</sup>`WeatherNCLT`.
