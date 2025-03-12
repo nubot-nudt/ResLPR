@@ -12,7 +12,7 @@
   </a>
 
   <a href="https://example_datasets.com" target='_blank'>
-    <img src="https://img.shields.io/badge/Project-%F0%9F%94%97-lightblue">
+    <img src="https://img.shields.io/badge/Dataset-%F0%9F%94%97-lightblue">
   </a>  
 </p>
 
