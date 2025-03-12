@@ -38,3 +38,7 @@ Visualization of corrupted point clouds of varying severity in WeatherKITTI and 
   <p align="center">
   <img src="./docs/figs/vis_preprocessing.png" alt="Vis preprocessing" width="800"/>
   </p>
+
+### Data Preparation
+Our datasets are hosted by Baidu Netdisk. Download the dataset via this [ResLPR datasets](https://example.com/).
+Kindly refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepare the <sup>1</sup>`KITTI`, <sup>2</sup>`KITTI-C`.
