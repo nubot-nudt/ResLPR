@@ -1,4 +1,4 @@
-<img src="./docs/figs/ResLPR_logo.png" align="right" width="30%">
+<img src="./docs/figs/ResLPR_logo.png" align="right" width="10%">
 
 # Data Preparation
 
