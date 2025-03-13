@@ -47,6 +47,11 @@ Visualization of corrupted point clouds of varying severity in WeatherKITTI and 
   <p align="center">
   <img src="./docs/figs/WeatherKITTI_demo.gif" alt="demo_WeatherKITTI" width="600"/>
   </p>
+  
+4. The demo of the results of WeatherNCLT are as follows:
+  <p align="center">
+  <img src="./docs/figs/WeatherNCLT_demo.gif" alt="demo_WeatherKITTI" width="600"/>
+  </p>
 
 ### Data Preparation
 Our datasets are hosted by Baidu Netdisk. Download the dataset via this [ResLPR datasets](https://example.com/).
