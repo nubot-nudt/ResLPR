@@ -45,7 +45,7 @@ Visualization of corrupted point clouds of varying severity in WeatherKITTI and 
 
 3. The demo of the results of WeatherKITTI are as follows:
   <p align="center">
-  <img src="./docs/figs/WeatherKITTI_demo.gif" alt="demo_WeatherKITTI" width="800"/>
+  <img src="./docs/figs/WeatherKITTI_demo.gif" alt="demo_WeatherKITTI" width="600"/>
   </p>
 
 ### Data Preparation
