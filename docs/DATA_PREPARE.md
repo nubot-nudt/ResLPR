@@ -20,6 +20,7 @@
          │   └── test
          │        │── light
          │        │     └── 00
+         │        │         └── snow_velodyne
          │        ├── mod
          │        └── heavy                                                             
          │── Fog                          
