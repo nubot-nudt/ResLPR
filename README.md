@@ -54,5 +54,4 @@ Visualization of corrupted point clouds of varying severity in WeatherKITTI and 
   </p>
 
 ### Data Preparation
-Our datasets are hosted by Baidu Netdisk. Download the dataset via this [ResLPR datasets](https://example.com/).
-Kindly refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepare the <sup>1</sup>`WeatherKITTI`, <sup>2</sup>`WeatherNCLT`.
+Our datasets are hosted by Baidu Netdisk. Download the dataset via this [ResLPR datasets]([https://example.com/](https://pan.baidu.com/s/1EN9v7zhDOU2mxKGqlhQvzQ?pwd=9d3f)). The dataset is of an excessive size, and it is currently undergoing continuous updates. Kindly refer to [DATA_PREPARE.md](docs/DATA_PREPARE.md) for the details to prepare the <sup>1</sup>`WeatherKITTI`, <sup>2</sup>`WeatherNCLT`.
