@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://example.com/paper.pdf" target='_blank'>
+  <a href="http://arxiv.org/abs/2503.12350" target='_blank'>
     <img src="https://img.shields.io/badge/Paper-%F0%9F%93%83-slategray">
   </a>
   
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Demo-%F0%9F%8E%AC-pink">
   </a>
 
-  <a href="https://example_datasets.com" target='_blank'>
+  <a href="https://pan.baidu.com/s/1EN9v7zhDOU2mxKGqlhQvzQ?pwd=9d3f" target='_blank'>
     <img src="https://img.shields.io/badge/Dataset-%F0%9F%94%97-lightblue">
   </a>  
 </p>
