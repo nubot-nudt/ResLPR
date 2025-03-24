@@ -49,14 +49,14 @@
          │    ├──...
          │    └── 10
          └── NCLT
-              ├── 2012-01-08
+              ├── 2012-01-08_vel
               │    └── velodyne_sync
-              ├── 2012-01-22 
-              ├── 2012-02-12
-              ├── 2012-06-15
-              ├── 2012-08-04
-              ├── 2012-11-04
-              └── 2012-11-16
+              ├── 2012-01-22_vel 
+              ├── 2012-02-12_vel
+              ├── 2012-06-15_vel
+              ├── 2012-08-04_vel
+              ├── 2012-11-04_vel
+              └── 2012-11-16_vel
 ```
 ## KITTI
 WeatherKITTI is simulated based on sequence 00 and sequences 03 to 10 in the odometry dataset of KITTI. To reproduce the results of ResLPR, it is necessary to use the original **sequence 00 as the database** and the point clouds of adverse weather conditions as the query for experiments. Please download the original dataset of sequence 00 by yourself: [KITTI odometry](https://www.cvlibs.net/datasets/kitti/eval_odometry.php).
