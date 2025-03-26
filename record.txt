@@ -1,0 +1,32 @@
+1. 训练数据准备：
+生成WeatherKITTI训练数据中的干净数据
+python gen_train_data_weatherkitti.py --sf /media/ryg/KINGSTON1/SemanticKitti/dataset/sequences --df /media/ryg/KINGSTON2/code_opensource_try/clean
+生成WeatherKITTI训练数据中的损坏数据
+python gen_train_data_weatherkitti.py --sf /media/ryg/KINGSTON1/SemanticKitti/snow_sim_KITTI/snow_lighttoheavy/try/ --df /media/ryg/KINGSTON2/code_opensource_try/kitti_snow --cf --ct snow
+
+
+生成WeatherNCLT训练数据中的干净数据
+python gen_train_data_weathernclt.py --sf /media/ryg/KINGSTON1/nclt/data/velodyne_data/2012-01-22_vel --df /media/ryg/KINGSTON2/code_opensource_try/NCLT/snow_clean_test --ct snow
+生成WeatherNCLT训练数据中的损坏数据
+python gen_train_data_weathernclt.py --sf /media/ryg/KINGSTON/NCLT_simu/2012-01-22_snow --df /media/ryg/KINGSTON2/code_opensource_try/NCLT/snow_test --cf --ct snow
+
+2. 测试数据准备：
+生成WeatherKITTI的测试数据中的干净数据
+python gen_test_data_weatherkitti.py --sf /media/ryg/KINGSTON1/SemanticKitti/dataset/sequences --df /media/ryg/KINGSTON2/code_opensource_try/kitti_00
+生成WeatherKITTI的测试数据中的损坏数据
+python gen_test_data_weatherkitti.py --sf /media/ryg/KINGSTON1/SemanticKitti/snow_sim_KITTI/snow_lighttoheavy/00/try --df /media/ryg/KINGSTON2/code_opensource_try/kitti_00 --cf --ct snow
+
+生成WeatherNCLT的测试数据中的干净数据
+python gen_test_data_weathernclt.py  --sf /media/ryg/KINGSTON1/nclt/data/velodyne_data/2012-01-08_vel --df /media/ryg/KINGSTON2/code_opensource_try/nclt_unrestored/database
+生成WeatherNCLT的测试数据中的损坏数据
+python gen_test_data_weathernclt.py --sf /media/ryg/KINGSTON/NCLT_corruption/NCLT_snow --df /media/ryg/KINGSTON2/code_opensource_try/nclt_unrestored/query/snow --cf --ct snow
+
+
+3.images to points
+WeatherKITTI数据集
+python image_to_points_kitti.py --nf /media/ryg/KINGSTON/KITTI_00_restoration/KITTI_restored_riandint/try --df /media/ryg/KINGSTON2/code_opensource_try/kitti_restored --dt WeatherKITTI
+WeatherNCLT数据集
+python image_to_points.py --nf /media/ryg/KINGSTON2/code_opensource_try/nclt_unrestored/query/snow --df /media/ryg/KINGSTON2/code_opensource_try/nclt_restored --dt WeatherNCLT
+
+
+注意：.idea文件夹记得不能开源
